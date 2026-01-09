@@ -35,6 +35,6 @@ This places the `appUniTerminal` runtime in your system’s standard `CMAKE_INST
 
 ## Usage
 
-Run the installed `appUniTerminal` binary from your launcher or terminal.[^2]
+Run the installed `appUniTerminal` binary from your launcher or terminal.
 
 
